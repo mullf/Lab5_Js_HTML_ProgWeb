@@ -301,15 +301,19 @@ _ Output :
 - Output :
 
 - Klik latar belakang hijau
+
 ![prak5_html11 1](https://github.com/mullf/Lab5_Js_HTML_ProgWeb/assets/115521049/052cc088-5ae1-4c4f-ae26-0da6d93d49f6)
 
 - Klik latar belakang putih
+
 ![prak5_html11 2](https://github.com/mullf/Lab5_Js_HTML_ProgWeb/assets/115521049/3f06dbad-a465-4a52-ad03-411bdf7bbfa1)
 
 - klik Text Kuning
+
 ![prak5_html11 3](https://github.com/mullf/Lab5_Js_HTML_ProgWeb/assets/115521049/c92d46d0-137c-4e92-a956-427443132606)
 
 - Klik Text Biru
+
 ![prak5_html11 4](https://github.com/mullf/Lab5_Js_HTML_ProgWeb/assets/115521049/f7738b48-c2ec-4dd8-866f-8a299265029b)
 
 ### HTML DOM
